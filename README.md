@@ -55,7 +55,7 @@ The private cloud is the largest computer in the organisation. The page shows th
 - **Standalone:** open `design/export/index.html` in any browser. One file. No server, no install.
   - GitHub.com shows it as source only. Download the file or clone the repo, then open it.
   - Fonts load from Google Fonts. Offline, the page falls back to system fonts.
-- **GitHub Pages (optional):** repo Settings, Pages, deploy from branch `main`, folder `/ (root)`. The page is then at `https://e1-rahabok.github.io/Executive-Dashboard/design/export/`.
+- **GitHub Pages (optional):** repo Settings, Pages, deploy from branch `main`, folder `/ (root)`. The page is then at `https://e1-rahabok.github.io/VMW-Executive-Dashboard/design/export/`.
 - **Source:** `design/Main.dc.html` needs the Claude Design runtime. It does not open standalone. It stays the source of truth.
 - **Regenerate the standalone file** after editing `Main.dc.html`:
 
