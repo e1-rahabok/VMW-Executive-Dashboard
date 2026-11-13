@@ -47,6 +47,7 @@ Project guide for Claude Code. Read this first.
 
 ## Working conventions
 
+- Merge approved PRs without waiting. The repo is in early development. Use squash merge.
 - Update the matching doc when behaviour changes. Metrics change goes in `docs/METRICS.md`. Layout or copy change goes in `docs/DESIGN.md`.
 - Keep copy in one place once the build starts. Keep visual tokens in one theme file.
 - Do not invent metric values or sources. Mark unknowns in `docs/OPEN-QUESTIONS.md`.
