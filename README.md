@@ -1,5 +1,11 @@
 # Private Cloud Executive Dashboard
 
+> **Try the live demo:** https://e1-rahabok.github.io/VMW-Executive-Dashboard/design/export/
+>
+> - Sample data only. Company is fictional (ACME Corp).
+> - Desktop browser recommended (1280 to 1440 px).
+> - Click any tower, card or "See detail" to drill down.
+
 An executive dashboard for a VMware Cloud Foundation (VCF) private cloud.
 
 - Audience: CEO, CFO, CIO, Head of IT Infrastructure.
